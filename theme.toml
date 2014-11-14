@@ -1,10 +1,10 @@
 name = "Elokenz-blog-1"
-description = "A clean, responsive, template with red accents."
+description = "A clean, responsive, template with purple accents."
 license = "Apache 2.0"
 licenselink = "https://github.com/tmaiaroto/hugo-redlounge/blob/master/LICENSE.md"
 source_repo = "http://github.com/tmaiaroto/hugo-redlounge"
-tags = ["redlounge", "red", "raleway", "libre baskerville", "blog", "gallery"]
+tags = ["redlounge", "purple", "raleway", "libre baskerville", "blog", "gallery"]
 features = ["blog", "gallery"]
 [author]
-    name = "Tom Maiaroto"
+    name = "Jean-Christophe Lavocat (forked from Tom Maiaroto)"
     homepage = "http://www.shift8creative.com"
