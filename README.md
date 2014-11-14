@@ -1,4 +1,4 @@
-Red Lounge
+Elokenz Blog (forked from Red Lounge)
 ===========
 
 This is an open-source Hugo theme designed by [@shift8creative](http://www.twitter.com/shift8creative) to be responsive and clean. It uses Pure.css and contains a few web fonts from Google as well as Font Awesome icons. 
